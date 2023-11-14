@@ -2,15 +2,6 @@
 I am trying to improve myself in areas such as Malicious Software, Reverse Engineering, Exploit Development, OS Internals. 
 I have also been active in companies as a security engineer.
 
-## Skills
-- Application Security
-- Malicious Software
-- Penetration Testing
-- Exploit Development
-- Reverse Engineering
-- System Programming
-- Threat Intelligence
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamitabis) 
 
