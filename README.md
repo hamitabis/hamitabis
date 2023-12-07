@@ -2,12 +2,9 @@
 I am trying to improve myself in areas such as *Reverse Engineering*, *Exploit Development*, *OS Internals*. I have also been active in companies as a *Security Engineer*. During my career, I did *Offensive and Defensive Threat Intelligence & Hunting*, *Application Security*, *Incident Response*, consultancy on *Splunk* and *Offensive Security*.
 
 ### Things I like;
-- C programming
+- Application Security
 - Malicious Software
-- Exploit Development
 - System Programming
-- OS Internals
-- Compiler Internals
 - Defense Security Evasion
 
 ### Courses
