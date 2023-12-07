@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am trying to improve myself in areas such as Reverse Engineering, Exploit Development, OS Internals. I have also been active in companies as a **Security Engineer**. During my career, I did **Penetration Testing**, **Offensive and Defensive Threat Intelligence & Hunting**, **Application Security**, consultancy on **Splunk**, **Incident Response** and **Offensive Security** consultancy.
+I am trying to improve myself in areas such as Reverse Engineering, Exploit Development, OS Internals. I have also been active in companies as a *Security Engineer*. During my career, I did *Offensive and Defensive Threat Intelligence & Hunting*, *Application Security*, *Incident Response*, consultancy on *Splunk* and *Offensive Security*.
 
 ### Things I like;
 - C programming
