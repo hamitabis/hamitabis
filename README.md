@@ -6,6 +6,8 @@ I am trying to improve myself in areas such as *Reverse Engineering*, *Exploit D
 - Malicious Software
 - System Programming
 - Defense Security Evasion
+- Compiler Internals
+- Source Code Review
 
 ### Courses
 - C Programming at the C Association
