@@ -18,6 +18,6 @@ I am trying to improve myself in areas such as *Reverse Engineering*, *Exploit D
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamitabis) 
 
-# 💻 Programming:
-[![My Skills](https://skillicons.dev/icons?i=c,cloudflare,cmake,linux)](https://github.com/hamitabis)
+## 💻 Programming:
+[![My Skills](https://skillicons.dev/icons?i=c,cmake,cs,bash,cloudflare,powershell,rust,linux)](https://github.com/hamitabis)
 
