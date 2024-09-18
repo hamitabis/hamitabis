@@ -12,8 +12,7 @@ I am trying to improve myself in areas such as *Reverse Engineering*, *Exploit D
 ### Courses
 - C Programming at the C Association
 - System Programming and Advanced C at the C Association
-- Offensive Driver Development at ZeroPoint Security
-- C2C Development with C# at ZeroPoint Security
+- C++ Programming at Plepa
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamitabis) 
